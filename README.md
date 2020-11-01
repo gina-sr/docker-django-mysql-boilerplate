@@ -1,0 +1,1 @@
+# Docker + Django + MySQL boilerplate
